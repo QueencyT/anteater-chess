@@ -47,12 +47,17 @@ As a member of the six-person development team, I was primarily responsible for 
 ## Gameplay Showcase
 https://github.com/user-attachments/assets/7030dde6-c27d-4ebb-a2dc-21d6c28f6ec6
 
-<sup>Anteater Chess features an interactive graphical interface built with GTK4 and Cairo, supporting mouse-controlled piece movement and visual highlighting of legal moves. The interface also includes player countdown timers, a scrollable move history, pawn promotion dialogs, undo functionality, and game-over notifications, providing an intuitive and engaging gameplay experience.</sup>
+<sup>Gameplay featuring an interactive graphical interface built with GTK4 and Cairo, supporting mouse-controlled piece movement and visual highlighting of legal moves. The interface also includes player countdown timers, a scrollable move history, pawn promotion dialogs, undo functionality, and game-over notifications, providing an intuitive and engaging gameplay experience.</sup>
 
 ## Undo Showcase
 https://github.com/user-attachments/assets/47d2cd57-016b-49fc-926f-fc434b547292
 
 <sup>Undo functionality allowing players to reverse previous moves and restore the board to its earlier state. Implemented using a stack-based move history, the system tracks piece movements, captured pieces, and special moves such as castling, ensuring that changes are accurately reversed. The undo feature is integrated with the GTK4 interface, allowing players to revert moves through a simple button click.</sup>
+
+## Pawn Promotion Showcase
+https://github.com/user-attachments/assets/75340c9b-e122-41e0-92b9-f10d78c3f9ae
+
+<sup>A custom GTK4 promotion dialog lets players select their desired replacement piece, which is then immediately reflected on the chessboard. This feature integrates the graphical interface with the game logic to ensure accurate piece replacement and seamless gameplay.</sup>
 
 
 ---
@@ -367,6 +372,8 @@ anteater-chess/
 ### Contributors
 
 Anteater Chess was developed collaboratively by Team 21.
+
+The original project repository is available at [NguyenDAustin/22L-Chess](https://github.com/NguyenDAustin/22L-Chess/commits/master/)
 
 **Portfolio maintained by:** Queency Tan (`QueencyT`, formerly `qatan-glitch`)
 
