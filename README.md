@@ -1,12 +1,12 @@
 # Anteater Chess
 
-A custom chess variant developed in **C**, featuring an interactive **GTK graphical user interface**, a computer opponent powered by **minimax with alpha-beta pruning**, and unique game mechanics built around the Anteater piece.
+A custom chess variant developed in **C**, featuring an interactive **GTK graphical user interface**, a computer opponent powered by minimax with alpha-beta pruning, and unique game mechanics built around the Anteater piece.
 
-Developed by **Team 21** for EECS 22L — Software Engineering Project in C at the University of California, Irvine.
+Developed by Team 21 for EECS 22L — Software Engineering Project in C at the University of California, Irvine.
 
 ## Overview
 
-Anteater Chess is a variation of traditional chess played on an **8×10 board**, introducing a new piece called the **Anteater** and replacing traditional pawns with ants.
+Anteater Chess is a variation of traditional chess played on an 8×10 board, introducing a new piece called the **Anteater** and replacing traditional pawns with ants.
 
 The Anteater moves one square in any direction, similar to a king, but cannot threaten the opposing king. Instead, it specializes in capturing ants, with the ability to capture multiple adjacent ants in a single move.
 
@@ -40,14 +40,13 @@ The application integrates custom chess rules, AI decision-making, move validati
 - **Move Highlighting:** Highlights available moves for selected pieces.
 - **Piece Promotion Interface:** Allows players to select a replacement piece.
 - **Game Timers:** Displays countdown timers for each player.
-- **Move History:** Displays recorded moves during gameplay.
+- **Move History:** Displays recorded moves in official chess notation during gameplay.
 - **Game Configuration:** Supports player color, game mode, and AI difficulty selection.
 
 ### Additional Functionality
 - **Undo System:** Uses a stack-based move history to restore previous board states.
 - **Move Logging:** Records gameplay actions in `chess_game.log`.
-- **Game-State Management:** Tracks turns, selected pieces, legal moves, and game-ending conditions.
-- **Modular Architecture:** Separates game logic, AI, rendering, input handling, and state management.
+
 
 ## Artificial Intelligence
 
