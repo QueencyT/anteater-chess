@@ -44,6 +44,12 @@ As a member of the six-person development team, I was primarily responsible for 
 - Assisted with debugging and resolving issues involving interconnected gameplay components.
 
 ---
+## Gameplay Showcase
+https://github.com/user-attachments/assets/7030dde6-c27d-4ebb-a2dc-21d6c28f6ec6
+
+<sup>Anteater Chess features an interactive graphical interface built with GTK4 and Cairo, supporting mouse-controlled piece movement and visual highlighting of legal moves. The interface also includes player countdown timers, a scrollable move history, pawn promotion dialogs, undo functionality, and game-over notifications, providing an intuitive and engaging gameplay experience.</sup>
+
+---
 ## Key Features
 
 - **Custom Chess Variant:** Expands traditional chess to an 8×10 board with two additional Anteater pieces per player.
