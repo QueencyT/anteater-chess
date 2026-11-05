@@ -14,9 +14,9 @@ Players can compete against AI opponents with three difficulty levels (Easy, Med
 - **Queency Tan** 
 - **Austin Nguyen**
 - **Mia Ness**
-- **Aman**
-- **Gurvin Singh**
-- **Naveen Islame**
+- **Aman Macwan**
+- **Gurvin Dhanjal**
+- **Naveen Khan**
   
 ---
 
